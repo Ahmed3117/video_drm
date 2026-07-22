@@ -1,0 +1,28 @@
+# Dependencies
+node_modules/
+
+# Generated media
+videos/
+*.envideo
+
+# Temporary test artifacts
+mock_video.bin
+mock_video.envideo
+
+# Build outputs
+dist/
+build/
+out/
+coverage/
+
+# OS and log noise
+.DS_Store
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Local environment files
+.env
+.env.*
+*.local

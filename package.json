@@ -1,0 +1,15 @@
+{
+  "name": "secure-video-player",
+  "version": "1.0.0",
+  "description": "Secure Native Video Player & Streamer with DRM capabilities",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^41.7.1"
+  }
+}
